@@ -1,3 +1,4 @@
+# PRIME NUMBERS
 a = input("Enter the number ")
 #i = range (0 , a , 1)
 flag=True
