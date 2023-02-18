@@ -51,6 +51,6 @@ for i in range(num+1):
 """
 
 for i in range(num):
-    for j in range(num-i):
-            print("*",end="")
-    print() 
+    for j in range(num-i):    # ***   if input = 3
+            print("*",end="") # **
+    print()                   # *
