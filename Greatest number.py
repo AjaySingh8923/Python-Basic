@@ -1,3 +1,4 @@
+#GREATEST NUMBER
 a = input("Enter the number ")
 b = input("Enter the number ")
 c = input("Enter the number ")
